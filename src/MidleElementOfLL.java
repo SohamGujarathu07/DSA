@@ -92,7 +92,7 @@ class Client{
                         int data = sc.nextInt();
                         ll.addNode(data);
                     }
-                    break;
+                        break;
                     case 2 :
                         ll.MidleNode();
                         break;
